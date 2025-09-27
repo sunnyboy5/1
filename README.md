@@ -1,4 +1,4 @@
-# Python笔记（B站——主播林粒粒呀）
+# Python笔记（B站——主播林粒粒呀）https://lqmboy.lanzouu.com/in4mK2r8dykf
 
 ```python
 print("Dad!")
