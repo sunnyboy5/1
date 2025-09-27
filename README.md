@@ -1,6 +1,6 @@
-[# Python笔记（B站——主播林粒粒呀）-测试
+# Python笔记（B站——主播林粒粒呀）-测试
 
-[https://lqmboy.lanzouu.com/in4mK2r8dykf]: 
+[https://lqmboy.lanzouu.com/in4mK2r8dykf]: https://lqmboy.lanzouu.com/in4mK2r8dykf
 
 
 
@@ -245,4 +245,3 @@ result = calculate_BMI(1.8, 70)
 print(result)
 ```
 
-](https://lqmboy.lanzouu.com/in4mK2r8dykf)
