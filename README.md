@@ -10,7 +10,7 @@
 
 [小黑课堂题库下载中心](http://124.221.48.166/DuiHuanMaWeb/admin/allsofts.php#:~:text=小黑课堂计算机题库是)
 
-[小众技术工具库 | 专注分享实用软件和精品网站](https://www.xiaozhongjishu.com/)
+[小众技术工具库](https://www.xiaozhongjishu.com/)
 
 [Adobe全家桶](https://www.yuque.com/gaosuxiazai/oacb9y?)
 
